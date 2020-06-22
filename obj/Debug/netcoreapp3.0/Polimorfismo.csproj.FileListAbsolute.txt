@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.exe
+C:\Users\senai\Desktop\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.deps.json
+C:\Users\senai\Desktop\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.runtimeconfig.json
+C:\Users\senai\Desktop\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.dll
+C:\Users\senai\Desktop\Polimorfismo\bin\Debug\netcoreapp3.0\Polimorfismo.pdb
+C:\Users\senai\Desktop\Polimorfismo\obj\Debug\netcoreapp3.0\Polimorfismo.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Polimorfismo\obj\Debug\netcoreapp3.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Polimorfismo\obj\Debug\netcoreapp3.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\senai\Desktop\Polimorfismo\obj\Debug\netcoreapp3.0\Polimorfismo.dll
+C:\Users\senai\Desktop\Polimorfismo\obj\Debug\netcoreapp3.0\Polimorfismo.pdb
